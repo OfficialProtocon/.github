@@ -1,2 +1,2 @@
-# Protocon
-Imagine a server, where user engagement, customizable management and server moderation is brought to a whole new level.
+# .github
+The configuration files for the Protocon GitHub organization profile.
