@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.png" alt="Protocon banner" align="center" />
+    <img src="./banner.png" alt="Protocon banner" align="center" />
 </p>
 
 # Protocon
