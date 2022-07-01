@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://github.com/OfficialProtocon/.github/blob/main/profile/banner.png" alt="Protocon banner" align="center" />
+    <a href="https://github.com/OfficialProtocon">
+        <img src="https://github.com/OfficialProtocon/.github/blob/main/profile/banner.png" alt="Protocon banner" align="center" />
+    </a>
 </p>
 
 ## 👋 Welcome to the Protocon Studios
