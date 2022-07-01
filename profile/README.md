@@ -17,7 +17,7 @@ The Protocon development team believes in creating innovations to meet the needs
 * [Søphiaツ#4977](https://github.com/Monsophia) - Developer
 
 ### Links
-* [Discord Server]() - Coming Soon!
+* [Discord Server](https://discord.gg/XXbXURg9zY)
 * [Bot Invite]() - Not available, bot in development
 * [Website]() - Not available, in development
 * [Twitter]() - TBC
