@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./banner.png" alt="Protocon banner" align="center" />
+    <img src="https://github.com/OfficialProtocon/.github/blob/main/profile/banner.png" alt="Protocon banner" align="center" />
 </p>
 
 # Protocon
