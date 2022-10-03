@@ -16,7 +16,6 @@ The Protocon development team believes in creating innovations to meet the needs
 
 ### The team powering your communities.
 * [r1zyn#4129](https://github.com/r1zyn) - Lead developer/project manager
-* [Søphiaツ#4977](https://github.com/Monsophia) - Developer
 
 ### Links
 * [Discord Server](https://discord.gg/XXbXURg9zY)
